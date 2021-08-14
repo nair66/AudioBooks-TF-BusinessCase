@@ -1,0 +1,13 @@
+ID
+book length(mins)_overall : sum of lengths of all books purchases
+book length(mins)_avg : sum / no of puchases
+price_overall : sum of all prices of books bought by the customer (Dollars)
+price_avg : sum / no of purchases (Dollars)
+Review : if customer left a review
+Review 10/10 : for those who did not rate 10, they have avg values for review, anyone rating above 8.9 have above avg "feelings"
+Total Minutes listened
+Completion : total minutes listened / book length_overall
+Support Requests : total no of support requests
+Last visited minus purchase date(bigger the difference, the better)
+
+Targets (If the customer has converted, ie: if they bought another book)
